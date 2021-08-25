@@ -6,22 +6,40 @@
     <description>Recent content in Categories on 강다정, 서현진 (@222)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://totwotoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://totwotoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contents</title>
+      <link>https://totwotoo.github.io/categories/contents/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://totwotoo.github.io/categories/contents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tvN</title>
+      <link>https://totwotoo.github.io/categories/tvn/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://totwotoo.github.io/categories/tvn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://totwotoo.github.io/categories/youtube/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://totwotoo.github.io/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://totwotoo.github.io/categories/blog/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://totwotoo.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contents</title>
-      <link>https://totwotoo.github.io/categories/contents/</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://totwotoo.github.io/categories/contents/</guid>
       <description></description>
     </item>
     
@@ -44,20 +62,11 @@
     </item>
     
     <item>
-      <title>Youtube</title>
-      <link>https://totwotoo.github.io/categories/youtube/</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://totwotoo.github.io/categories/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tvN</title>
-      <link>https://totwotoo.github.io/categories/tvn/</link>
+      <title>Stillcut</title>
+      <link>https://totwotoo.github.io/categories/stillcut/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://totwotoo.github.io/categories/tvn/</guid>
+      <guid>https://totwotoo.github.io/categories/stillcut/</guid>
       <description></description>
     </item>
     
@@ -71,29 +80,20 @@
     </item>
     
     <item>
-      <title>Netflix</title>
-      <link>https://totwotoo.github.io/categories/netflix/</link>
-      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://totwotoo.github.io/categories/netflix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>instagram</title>
       <link>https://totwotoo.github.io/categories/instagram/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://totwotoo.github.io/categories/instagram/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stillcut</title>
-      <link>https://totwotoo.github.io/categories/stillcut/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Netflix</title>
+      <link>https://totwotoo.github.io/categories/netflix/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://totwotoo.github.io/categories/stillcut/</guid>
+      <guid>https://totwotoo.github.io/categories/netflix/</guid>
       <description></description>
     </item>
     
