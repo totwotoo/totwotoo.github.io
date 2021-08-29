@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://totwotoo.github.io/p/photo-35/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://totwotoo.github.io/categories/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,7 +17,13 @@
     <loc>https://totwotoo.github.io/tags/makingfilm/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://totwotoo.github.io/categories/photo/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://totwotoo.github.io/post/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://totwotoo.github.io/categories/stillcut/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://totwotoo.github.io/tags/</loc>
@@ -44,9 +53,6 @@
     <loc>https://totwotoo.github.io/tags/blog/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://totwotoo.github.io/categories/photo/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://totwotoo.github.io/tags/photo/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -66,9 +72,6 @@
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://totwotoo.github.io/p/photo-34/</loc>
-    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://totwotoo.github.io/categories/stillcut/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://totwotoo.github.io/categories/twitter/</loc>
